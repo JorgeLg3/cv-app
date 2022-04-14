@@ -10,4 +10,4 @@ In this new project of "TOP: full stack javascript path" the task is to develop 
     - Props
 
 ## Live Preview
-[CV Project](https://jorgelg3.github.io/cv-app)
+[CV Project](https://jorgelg3.github.io/cv-app/build)
