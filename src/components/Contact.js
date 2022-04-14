@@ -11,7 +11,7 @@ export class Contact extends Component{
           };
     }
     handleChange = (event) => {
-        this.props.handleToUpdate(event);
+        //this.props.handleToUpdate(event);
         this.setState({[event.target.name]: event.target.value});
     }
 
